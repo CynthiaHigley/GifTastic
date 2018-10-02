@@ -1,0 +1,37 @@
+GiphyTastic 
+HTML 
+set up the page to reflect the example given 
+connect to giphy.com 
+connect to jquery 
+connect to my app.js 
+connect to my style.css 
+
+CSS 
+format 
+header 
+text box
+spacing 
+button area 
+
+JS 
+set up variables 
+create a travel array 
+
+generate the buttons from the array 
+	using a for loop 
+	put names of countries on buttons 
+
+set up each of the buttons on the click event to 
+	populate with giphy images using the name of the element in the array as the search string for giphy
+	display giphy images 
+have form set to ready 
+	when user types in text 
+	append text to the array 
+	add(append or prepend?) button to the page 
+	from the code above the new button click event should be able to grap 
+		the array element and populate with 10 giphy images
+	display giphy images to page 
+on img click even the image clicked should stop moving when the user clicks on it, 
+	if they click again it turns back into a gif that moves. 
+when user types in text box and submits
+capture data from the text box
